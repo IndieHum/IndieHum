@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IndieHum
-- 👀 I’m interested in Front-end and back-end Developing.
+- 👀 I’m interested in Front-end and back-end Development.
 - 🌱 I’m currently learning Front-end Structures.
 - 💞️ I’m very interested in open-source projects.
