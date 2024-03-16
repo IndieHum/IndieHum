@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IndieHum
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Front-end Structures.
-- 💞️ I’m very interested in open-source projects.
+- 🖥️ I’m interested in Software Engineering.
+- 🧱 I’m currently learning Front-end Structures.
+- 💾 I’m very interested in open-source projects.
