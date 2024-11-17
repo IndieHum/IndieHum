@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IndieHum
 - 🖥️ I’m currently Educating in Software Engineering.
-- 🧱 I’m at present learning Back-end Structures.
-- 💾 I’m very interested in open-source projects.
+- 🧱 at present learning Back-end Structures.
+- 💾 very interested in Free and open-source projects.
